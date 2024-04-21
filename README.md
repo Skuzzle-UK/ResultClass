@@ -1,0 +1,1 @@
+# Skuzzle.Core.Lib.ResultClass
